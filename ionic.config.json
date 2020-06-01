@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-reselect-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
